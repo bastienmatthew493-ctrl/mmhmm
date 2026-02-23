@@ -13,6 +13,6 @@
       <a href="https://www.linkedin.com/&quot; target="_blank"> linkedIn </a>
       </p>
       <input placeholder="enter email..."/>
-      <button>www.campaignmonitor.com</button>
+      <button>www.newsletter.com</button>
   </body>
 </html>
